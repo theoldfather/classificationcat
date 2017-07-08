@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: relative
+
+# Setup
+title:               Classification Cat
+tagline:             'machine learning made simple'
+description:         ''
+url:                 http://www.classificationcat.io
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Jeremy Oldfather
+  url:               http://www.jeremyoldfather.com
+  email:             ''
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-paginate]
