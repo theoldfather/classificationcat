@@ -7,14 +7,15 @@ permalink:           pretty
 title:               Classification Cat
 tagline:             'machine learning made simple'
 description:         ''
-url:                 http://www.classificationcat.io
+url:                 'http://www.classificationcat.io'
 baseurl:             ''
 paginate:            5
+excerpt_separator: "<!--more-->"
 
 # About/contact
 author:
   name:              Jeremy Oldfather
-  url:               http://www.jeremyoldfather.com
+  url:               'http://www.jeremyoldfather.com'
   email:             ''
 
 # Custom vars
